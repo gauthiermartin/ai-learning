@@ -1,4 +1,4 @@
-# ai-learning
+# AI-Learning Degree
 A simple project to keep track of my AI learning
 
 
