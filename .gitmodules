@@ -1,0 +1,3 @@
+[submodule "pandas/pandas-videos"]
+	path = pandas/pandas-videos
+	url = git@github.com:gauthiermartin/pandas-videos.git
