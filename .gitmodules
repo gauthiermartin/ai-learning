@@ -1,3 +1,6 @@
 [submodule "pandas/pandas-videos"]
 	path = pandas/pandas-videos
 	url = git@github.com:gauthiermartin/pandas-videos.git
+[submodule "deep-learning/grokking-deep-learning-exercises"]
+	path = deep-learning/grokking-deep-learning-exercises
+	url = git@github.com:gauthiermartin/grokking-deep-learning-exercises.git
