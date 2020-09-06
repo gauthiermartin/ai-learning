@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/martin/.miniconda3/envs/deep-learning/bin/python",
+    "python.dataScience.jupyterServerURI": "local",
+}
